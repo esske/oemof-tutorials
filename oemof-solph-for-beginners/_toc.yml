@@ -7,9 +7,6 @@ parts:
   - file: Introduction-to-energy-system-modeling/intro
   - file: Introduction-to-energy-system-modeling/basics
   - file: Introduction-to-energy-system-modeling/mathematics
-- caption: Setup Python for the Tutorial
-  chapters:
-  - file: getting-started/setup-python
 - caption: Energy system modeling with oemof-solph
   chapters:
   - file: oemof-models/basics

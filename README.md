@@ -28,6 +28,7 @@ Please refer to the official installation guide:
 <https://jupyterbook.org/en/stable/start/overview.html#install-jupyter-book>
 
 > **Important:** Make sure you install **jupyter-book < v2**, as newer versions are not yet supported in this project.
+You can use the provided `jbook_env.yml` to build a environment.
 
 Once installed, you can build the HTML documentation from the root directory of your local clone:
 

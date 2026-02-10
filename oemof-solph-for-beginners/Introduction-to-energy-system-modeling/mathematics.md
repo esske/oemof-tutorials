@@ -1,4 +1,4 @@
-# Mathematical background
+# Mathematic Optimization of Energy Systems
 
 For the mathematical basics of optimization models at large see ...
 
@@ -55,3 +55,4 @@ Another common constraint is the ramp rate of unit, i.e. how much the power outp
 
 $$P(t)\le P(t-1)\pm \Delta P $$
 
+## Solver
